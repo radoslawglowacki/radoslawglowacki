@@ -5,7 +5,7 @@
 Well motivated, 26 years old passionate about programming. Currently, looking for a new and challenging position, one which will make best use of my existing skills and experience. I am open to new experiences related to creating web applications, and I would love to work as a Fullstack Developer.
 
 
-## My skils:
+## My skills:
 
 
 ![skills](https://user-images.githubusercontent.com/62946165/122739954-cb66e900-d283-11eb-910a-5d728c7e5da6.png)
