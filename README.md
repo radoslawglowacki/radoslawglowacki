@@ -8,7 +8,7 @@ Well motivated, 26 years old passionate about programming. Currently, looking fo
 ## My skils:
 
 
-![skills](https://user-images.githubusercontent.com/62946165/122738880-b047a980-d282-11eb-830c-b0d4db327297.png)
+![skills](https://user-images.githubusercontent.com/62946165/122739954-cb66e900-d283-11eb-910a-5d728c7e5da6.png)
 
 
 ## 🌱 I’m currently learning
