@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-Well motivated, 26 years old passionate about programming. I love working with computers and technology. Currently, looking for a new and challenging position, one which will make best use of my existing skills and experience. I am open to new experiences related to creating web applications, and I would love to work as a Fullstack Developer.
+I am well motivated, 26 years old passionate about programming. I love working with computers and technology. Currently, looking for a new and challenging position, one which will make best use of my existing skills and experience. I am open to new experiences related to creating web applications, and I would love to work as a Fullstack Developer.
 
 
 ## My skills:
