@@ -11,12 +11,6 @@ I am well motivated, 26 years old passionate about programming. I love working w
 ![skills](https://user-images.githubusercontent.com/62946165/122739954-cb66e900-d283-11eb-910a-5d728c7e5da6.png)
 
 
-## 🌱 I’m currently learning
-
-
-![react](https://user-images.githubusercontent.com/62946165/122739345-2e0bb500-d283-11eb-8f14-31724e09fef3.png)
-
-
 ## 📫 How to reach me:
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:radglo1995@gmail.com)
