@@ -1,4 +1,4 @@
-![radek_heder](https://user-images.githubusercontent.com/62946165/122681350-1802e380-d1f4-11eb-85ad-748c9402e198.png)
+![header](https://user-images.githubusercontent.com/62946165/151807298-6769b2f5-e570-4b62-a4d0-d3283f86849f.jpg)
 
 # Hi there 👋
 
@@ -8,7 +8,10 @@ Well motivated, 26 years old passionate about programming. I am a detail-oriente
 ## My skills:
 
 
-![skills](https://user-images.githubusercontent.com/62946165/122739954-cb66e900-d283-11eb-910a-5d728c7e5da6.png)
+![skills](https://user-images.githubusercontent.com/62946165/151807367-856f4858-8dc9-4c95-8e64-513c4edd47c6.png)
+
+
+🌱 I’m currently learning: Docker
 
 
 ## 📫 How to reach me:
